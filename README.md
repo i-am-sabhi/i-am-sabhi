@@ -28,6 +28,9 @@
 ![image](https://github.com/user-attachments/assets/83421ab2-2853-4ed9-a74a-3845f098218f)
 
 
+### ✍️ Inspriration to Fuel your Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 ## ⚡ Just for Fun:
 Why did the data analyst break up with their SQL query?
 <br>
@@ -53,9 +56,6 @@ Why did the data analyst break up with their SQL query?
 <br>
 .
 Because he couldn’t find a **join** that worked! 😅
-
-### ✍️ Inspriration to Fuel your Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <!---
 i-am-sabhi/i-am-sabhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
