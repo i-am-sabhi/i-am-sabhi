@@ -29,7 +29,7 @@
 
 
 ## ✍️ Inspriration to Fuel your Day
-![](https://quotes-github-readme.vercel.app/api?border=true&type=horizontal&theme=chartreuse-dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark)
 
 <!---
 i-am-sabhi/i-am-sabhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
