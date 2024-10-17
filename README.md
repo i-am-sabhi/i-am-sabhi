@@ -5,7 +5,7 @@
 ### About Me 😄
 - 🌱 I’m a Skilled Data Analytics Professional with over 8 Years of Experience in the Supply Chain & Logistics Industry.
 - 🎯 I Specialize in Operational Excellence, Continuous Process Improvement and Process Automation.
-- 🦾 Leveraging insights procured through Data Analysis & Visualization, I help businesses take decisions from a Data-Driven Perspective       
+- 🦾 I help Organizations in making Data-Driven Decisions by leveraging valuable insights generated through Data Analysis & Visualizations.       
 
 ### 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-red)](mailto:mohamed.sabhi.n@gmail.com)
