@@ -55,10 +55,7 @@ Why did the data analyst break up with their SQL query?
 Because he couldn’t find a **join** that worked! 😅
 
 ### ✍️ Inspriration to Fuel your Day
-<a href="https://github.com/marketplace/actions/quote-readme">
-<!--STARTS_HERE_QUOTE_README-->
-<!--ENDS_HERE_QUOTE_README-->
-</a>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <!---
 i-am-sabhi/i-am-sabhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
