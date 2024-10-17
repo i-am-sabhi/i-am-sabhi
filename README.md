@@ -52,7 +52,7 @@ Why did the data analyst break up with their SQL query?
 .
 <br>
 .
-Because they couldn’t find a **join** that worked! 😅
+Because he couldn’t find a **join** that worked! 😅
 
 ### ✍️ Inspriration to Fuel your Day
 <a href="https://github.com/marketplace/actions/quote-readme">
