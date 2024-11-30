@@ -2,6 +2,8 @@
 
 ## 💫 Welcome to my GitHub 💫
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 ### About Me 😄
 - 🌱 I’m a Skilled Data Analytics Professional with over 8 Years of Experience in the Supply Chain & Logistics Industry.
 - 🎯 I Specialize in Operational Excellence, Continuous Process Improvement and Process Automation.
